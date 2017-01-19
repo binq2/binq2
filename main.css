@@ -1,5 +1,5 @@
 @font-face {
-font-family: nagayamakai_08;
+font-family: nagayama_kai;
 src: url("/nagayama_kai08.otf") format("opentype");
 }
 
@@ -8,7 +8,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'nagayamakai_08',Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'nagayama_kai',Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
