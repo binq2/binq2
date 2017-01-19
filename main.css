@@ -1,3 +1,8 @@
+@font-face {
+font-family: nagayamakai_08;
+src: url("/nagayama_kai08.otf") format("opentype");
+}
+
 body {
     margin: 60px auto;
     width: 70%;
